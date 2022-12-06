@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pankaj-umarwal-6b1a06210" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RYeN56EvozwyyxYGDw4dTu-pbUZyNxnF93zSLUcOlQ&s" alt="https://www.linkedin.com/in/pankaj-umarwal-6b1a06210" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/scoe_1169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/scoe_1169" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/pankajumarwal9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/pankajumarwal9" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/scoe_1169" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="https://www.codechef.com/users/scoe_1169" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/pankajumarwal9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="https://www.hackerrank.com/pankajumarwal9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
